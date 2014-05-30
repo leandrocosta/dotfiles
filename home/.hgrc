@@ -1,0 +1,7 @@
+[ui]
+username = Leandro Costa <leandro.costa@gmail.com>
+verbose = True
+ignore = ~/.hgignore
+
+[extensions]
+color =
