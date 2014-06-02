@@ -1,1 +1,6 @@
-/home/leandro/bitbucket/homedir/.hgignore
+syntax: glob
+*.pyc
+*.egg-info
+*~
+*.back
+*.bak
