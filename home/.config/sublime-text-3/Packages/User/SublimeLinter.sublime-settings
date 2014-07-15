@@ -11,10 +11,11 @@
                 "@disable": false,
                 "args": [],
                 "excludes": [],
-                "ignore": "",
+                "ignore": [
+                    "E501"
+                ],
                 "max-line-length": null,
-                "select": "",
-                "ignore": ["E501"]
+                "select": ""
             }
         },
         "mark_style": "outline",
