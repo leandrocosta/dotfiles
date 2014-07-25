@@ -1,0 +1,7 @@
+[url "https://"]
+	insteadOf = git://
+[user]
+	name = Leandro Costa
+	email = leandro.costa@gmail.com
+[color]
+	ui = auto
