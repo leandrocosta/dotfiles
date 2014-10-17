@@ -5,3 +5,4 @@ ignore = ~/.hgignore
 
 [extensions]
 color =
+#prompt = ~/bitbucket/sjl/hg-prompt/prompt.py

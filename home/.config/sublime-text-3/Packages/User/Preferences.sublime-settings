@@ -1,9 +1,12 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by file type specific settings.
 {
-    "font_face": "Source Code Pro",
-    "font_size": 10,
-    "highlight_line": true,
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"tab_size": 4,
-    "translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true
 }
